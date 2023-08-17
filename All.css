@@ -1,0 +1,269 @@
+.html,body{
+	background: linear-gradient( to bottom  , black , rgb(26, 21, 0));
+ }
+ /*feedback*/
+ .ix{
+	width: 270px;
+	height: 35px;
+	margin-top: 10px;
+	border-radius: 7px;
+    padding-left: 10px
+ }
+ .btn1{
+	height: 30px;
+    width: 270px;
+	color: aliceblue;
+	background: linear-gradient( to left, rgb(18, 15, 202), rgb(140, 53, 161));
+	border-radius: 15px;
+	}
+	
+ .tx{
+	padding: 15px;
+	margin-top: 10px;
+	width: 270px;
+	height: 200px;
+	border-radius: 10px
+ }
+ .fdbck{
+  margin-left: 1130px;
+ }
+ /*HOME CSS*/
+ .main{
+		height: 770px;
+		width: 100%;
+		background: linear-gradient(to left,rgb(1,1,1,.5), rgb(1,1,1,.5)), url('image/punjab.JPEG');
+		background-size: 100% 100%;	
+ }
+ .thought{
+	margin-top: 10px;
+	color: rgb(255, 236, 236);
+	font-size: 17px;
+    text-align: justify;
+ }
+ .thought1{
+	font-weight: bold;
+	font-size: 50px;
+	color: white;
+	position: absolute;
+ }
+ .logo{
+	margin-top: -120px;
+	height: 600px;
+    width: 700px;
+	margin-left: 50px;
+}
+.searchbar{
+	height: 70px;
+	width: 500px;
+	border-radius: 10px;
+	padding-left: 20px;
+	margin-top: -200px;
+	position: absolute;
+}
+.searchbar1{
+	margin-left: 390px;
+	margin-top: -180px;
+	position: absolute;
+	height: 35px;
+	width: 100px;
+}
+.con{
+	height: 1750px;
+	background: white;
+}
+.e{
+	font-size: 40px;
+	color: navy;
+	margin-top: 80px;
+}
+.travel-data{
+	font-size: 15px;
+	position: absolute;
+	color: black;
+	margin-left: 70px;
+    margin-top: 0px;
+}
+.travel{
+	font-size: 20px;
+	position: absolute;
+	font-weight: bold;
+	color: black;
+	margin-top: -45px;
+	margin-left: 70px;
+}
+.link{
+	font-size: 15px;
+	position: absolute;
+	font-weight: bold;
+	color: black;
+	margin-left: 70px;
+    margin-top: 100px;
+}
+ .learn{
+	margin-top: 100px;
+}
+.lang{
+	font-size: 40px;
+	color: navy;
+	font-weight: bold;
+margin-top: 55px;
+text-align: center;
+}
+.lang-data{
+	font-size: 21px;
+	line-height: 30px;
+	position: absolute;
+	color: rgb(15, 15, 15);
+	margin-top: 5px;
+	text-align: justify;
+	font-family: Franklin Gothic Book;
+}
+.img{
+	margin-top: 70px;
+}
+.questions1{
+	font-weight: bold;
+	font-size: 60px;
+	color:rgb(218,208,208,.3);
+	margin-top: -550px;
+	text-align: center;
+	padding: 25px;
+}
+.questions2{
+	font-weight: bold;
+	font-size: 30px;
+	color: navy;
+	text-align: center;
+	margin-top: -60px;
+}
+.questions3{
+	color: blue;
+    font-size: 20px;
+    padding: 8px;
+    margin-top: 10px; 
+}
+.questions{
+	margin-top: -430px;
+}
+ /*HISTORY CSS*/
+ .title{ 
+	font-weight: bold;
+	font-size: 60px;
+	color:rgba(179, 179, 179, 0.103);
+	text-align: center;
+    margin-top: 80px;
+    word-spacing: 20px;
+}
+.titles{
+    margin-top: -60px;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgb(255, 255, 255);
+    word-spacing: 30px;
+	text-align: center;
+}
+.names{
+   
+	font-weight: bold;
+	font-size: 15px;
+	color: rgb(255, 255, 255);
+	text-align: center;
+}
+.data{
+    color: rgb(131, 131, 131) !important;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+.jb{
+    height: 300px;
+}
+.img1{
+	height: 320px;
+}
+.mrs{
+	margin-top: -80px;
+}
+ /*FOOTER CSS*/
+.footer{
+	height: 500px;
+	width: 100%;
+	background: linear-gradient( to bottom, rgb(22, 18, 0), black);
+}
+.bold{
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+	position: absolute;
+}
+.quote{
+	font-size: 25px;
+	line-height: 40PX;
+	color: white;
+	font-family: Franklin Gothic Book;
+}
+.quote a{
+	font-size: 15px;
+	color: white;
+	font-family: Franklin Gothic Book;
+	text-decoration: none;
+}
+.last-heading{
+	color: white;
+	font-weight: bold;
+	margin-left: 38px;
+}
+.icon{
+		color: white;
+	font-size: 25px;
+}
+.copyright{
+	
+	text-align: center;
+	color: white;
+}
+  /*NAVBAR CSS*/
+  .nav  li a{
+	color: rgb(99, 96, 84)!important ; 
+	}
+.nav  li a:hover{
+	color: rgb(255, 255, 255) !important;
+}
+.top{
+	padding-left: 100px;
+	padding-right: 100px;
+	background: black;
+	border: 1px white solid;
+}	
+.navbar-brand{
+	font-weight: bold;
+	color: white !important;
+	font-size: 30px;
+}
+ /*AC CSS*/
+.ac-heading{
+color: white;
+font-weight: bold;
+font-size: 29px;
+}
+.video{
+	
+	width: 750px;
+}
+.ac{
+	height: 300px;
+	width: 300px;
+
+}
+.ac1{
+	height: 200px;
+	width: 410px;
+}
+.fd{
+	height: 300px;
+	width: 420px;
+}
+.read{
+	font-weight: bold;
+	margin-top: -80px;
+}
